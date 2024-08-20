@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Web Based Article",
+        "author": "Arnold Robins and Linda Lamb",
+        "publisher": "Logesh B",
+        "ISBN": "1-56592-426-6",
+        "category": "Web Developement",
+        "year": "1998",
+        "edition": "1",
+        "reviews": []
+    },
+    {
+        "title": "The Practice of Programming",
+        "author": "Rob Pike",
+        "publisher": "Addison-Wesley",
+        "category": "Web Developement",
+        "ISBN": "0-201-61586-X",
+        "year": "1999",
+        "edition": "1",
+        "reviews": []
+    },
+    {
+        "title": "Learning Web Design",
+        "author": "Jennifer Robbins",
+        "publisher": "",
+        "ISBN": "978-1-449-31927-4",
+        "category": "Web Developement",
+        "year": "",
+        "edition": "1",
+        "reviews": []
+    },
+    {
+        "title": "The C Puzzle Book",
+        "author": "Alan L. Freur",
+        "publisher": "Prentice-Hall",
+        "ISBN": "0-13-115502-4",
+        "category": "Web Developement",
+        "year": "1989",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C# 2005 Databases",
+        "author": "Jim Huddleston",
+        "publisher": "Apress",
+        "ISBN": "1-59059-777-X",
+        "category": "Web Developement",
+        "year": "2006",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C++ Programming in easy steps",
+        "author": "Mike McGrath",
+        "publisher": "Barnes & Noble Books",
+        "ISBN": "0-7607-7138-3",
+         "category": "Web Developement",
+        "year": "2005",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "How to Program C++",
+        "author": "Dietel & Dietel",
+        "publisher": "Prentice Hall",
+        "ISBN": "0-13-0895717-7",
+         "category": "Web Developement",
+        "year": "2001",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C++ Programming Lanugage",
+        "author": "Bjarne Stroustrup",
+        "publisher": "AT&T",
+        "ISBN": "0-201-88954-4",
+        "category": "Web Developement",
+        "year": "1997",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C++ for Dummies",
+        "author": "Stephen Davis",
+        "publisher": "IDG Books",
+        "ISBN": "1-56884-614-2",
+         "category": "Web Developement",
+        "year": "1996",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C++ Without Fear",
+        "author": "Brian Overland",
+        "publisher": "Prentice-Hall",
+        "ISBN": "0-321-24695-0",
+         "category": "Web Developement",
+        "year": "2009",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "Problem Solving with C++",
+        "author": "Neil/Chip/Mark",
+        "publisher": "Jones & Bartlett",
+        "ISBN": "0-7637-1063-6",
+         "category": "Web Developement",
+        "year": "2000",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "Creating Web Pages for Dumm.",
+        "author": "Bud Smith",
+        "publisher": "IDG Books",
+        "ISBN": "0-7645-0504-1",
+         "category": "Web Developement",
+        "year": "1999",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "Programming PHP",
+        "author": "Rasmus Lerdorf",
+        "publisher": "O'Reilly",
+        "ISBN": "1-56592-610-2",
+         "category": "Web Developement",
+        "year": "2002",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "C# Primer: A Practical",
+        "author": "Stanley Lippman",
+        "publisher": "Addison Wesley",
+        "ISBN": "0-201-72955-5",
+         "category": "Web Developement",
+        "year": "2002",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "Learning Perl, 6th Ed.",
+        "author": "Randall Schwartz",
+        "publisher": "O'Reilly",
+        "ISBN": "978-1-449-30358-7",
+         "category": "Web Developement",
+        "year": "2011",
+        "edition": "",
+        "reviews": []
+    },
+    {
+        "title": "Game Engine Architecture",
+        "author": "Jason Gregory",
+        "publisher": "A K Peters/CRC Press",
+        "ISBN": "978-1138035454",
+         "category": "Web Developement",
+        "year": "2018",
+        "edition": 3,
+        "reviews": []
+    },
+    {
+        "title": "Digital Audio Theory: A Practical Guide",
+        "author": "Christopher L. Bennett",
+        "publisher": "Focal Press",
+        "ISBN": "978-0367276553",
+         "category": "Web Developement",
+        "year": "2020",
+        "edition": 1,
+        "reviews": []
+    },
+    {
+        "title": "Game Physics Cookbook",
+        "author": "Gabor Szauer",
+        "publisher": "Packt Publishing",
+        "ISBN": "978-1787123663",
+         "category": "Web Developement",
+        "year": "2017",
+        "edition": 2,
+        "reviews": []
+    }
+]
